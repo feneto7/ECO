@@ -51,7 +51,7 @@ export function About() {
           <div className="order-1 lg:order-2 relative">
             <div className="aspect-[4/5] rounded-3xl overflow-hidden shadow-2xl">
               <img 
-                src="https://images.unsplash.com/photo-1551076805-e1869043e560?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" 
+                src="/doctor-analyzing.png" 
                 alt="Médico analisando exame na Clínica Eco" 
                 className="w-full h-full object-cover"
               />
