@@ -1,4 +1,4 @@
-import { Stethoscope, Heart, Baby, Brain, HeartPulse, Sparkles, UserRound, ArrowRight } from "lucide-react";
+import { Stethoscope, Heart, Baby, Brain, HeartPulse, Sparkles, ArrowRight } from "lucide-react";
 
 const services = [
   { 
